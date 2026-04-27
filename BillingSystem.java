@@ -43,15 +43,6 @@ public class BillingSystem {
     System.out.println("---------------------------------------");
     System.out.println("Status: Payment Pending " +  "(" + status + ")");
 
-
-
-
-
-
     scanner.close();
-
-
-
-
   }
 }
